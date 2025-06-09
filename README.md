@@ -1,4 +1,4 @@
-<!-- BANNER -->
+<!-- Banner -->
 <p align="center">
   <img src="https://i.pinimg.com/1200x/bd/eb/85/bdeb85ffc85a0cfb67ce9e6bb4cd57c5.jpg" alt="Banner" width="100%" />
 </p>
@@ -6,21 +6,22 @@
 <h1 align="center"><strong><em>🚨 This intro is currently under experimental changes 🚧</em></strong></h1>
 
 <h1 align="center">Hi ♨, I'm Irshad Hossain</h1>
-<h3 align="center">Student, Department of Software Engineering at University of Frontier Technology Bangladesh.</h3>
+<h3 align="center">Student | Software Engineering @ University of Frontier Technology, Bangladesh</h3>
 
-
-
+---
 
 ## 🧠 About Me
-- 🎓 I'm studying **BSc in Software Engineering** at Frontier Technology University Bangladesh
-- 💻 My passion lies in solving daily problems, often transforming them into personal projects. I also have a vision to develop impactful **SaaS** solutions.
-- 🛠️ **Skills**: `C`, `HTML`, `CSS`, `JavaScript`, `Tailwind CSS`, `Python`
-- 🌱 Currently learning: Diving deep into `React` and backend technologies to build comprehensive full-stack applications.
-- ✨ My top priority is crafting clean, maintainable, and scalable code, ensuring every solution is meticulously polished.
-- ⚡ Fun fact: Some of my best ideas come to me in the bathroom! 💡🚽
 
+- 🎓 BSc in Software Engineering
+- 💻 Passionate about solving real-life problems and converting them into useful digital tools
+- 🛠️ Skills: `C`, `HTML`, `CSS`, `JavaScript`, `Tailwind CSS`, `Python`
+- 🌱 Currently learning: `React` and backend development for full-stack applications
+- ✨ Clean, scalable, and maintainable code is my top priority
+- ⚡ Fun fact: My best ideas strike in the shower or on the toilet 💡🚽
 
-## 💼 Skills
+---
+
+## 💼 Tech Stack
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
@@ -32,42 +33,61 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
 </p>
 
+---
+
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Irshad-11&show_icons=true&theme=default" alt="Irshad-11's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Irshad-11&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Irshad-11&theme=default" alt="Irshad-11's GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irshad-11&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irshad-11&layout=compact&theme=default" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Irshad-11&theme=react-dark" alt="Activity Graph" />
 </p>
 
+<!-- Optional: Pie chart if you have it -->
+<!--
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Irshad-11/Irshad-11/main/assets/lang-piechart.png" alt="Language Pie Chart" width="400" />
+</p>
+-->
 
-## 🌟 Featured Project
+---
+
+## 🌟 Featured Projects
 
 ### 🔧 [GradeEasy: CGPA Calculator](https://irshad-11.github.io/GradeEasy)
-> A web based CGPA calculator.
+> A web-based CGPA calculator for students with instant feedback and GPA breakdown.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Irshad-11&repo=GradeEasy)](https://github.com/Irshad-11/GradeEasy)
 
+---
 
-### 🔧 [GradeEasy: CGPA Calculator](https://irshad-11.github.io/GradeEasy)
-> A web-based tool that allows users to find, replace, remove, and manipulate large chunks of text efficiently, featuring undo/redo, regex support, theme toggle, and clipboard integration.
+### 🧹 Text Cleaner Tool
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Irshad-11&repo=Text-Find-Replace-Tool)](https://github.com/Irshad-11/Text-Find-Replace-Tool)
+[![Repo Stars](https://img.shields.io/github/stars/Irshad-11/GradeEasy?style=social)](https://github.com/Irshad-11/GradeEasy)
+[![Repo Forks](https://img.shields.io/github/forks/Irshad-11/GradeEasy?style=social)](https://github.com/Irshad-11/GradeEasy)
+[![Last Commit](https://img.shields.io/github/last-commit/Irshad-11/GradeEasy)](https://github.com/Irshad-11/GradeEasy)
 
+A powerful web-based tool to find, replace, and clean text.  
+🔗 [Live Demo](https://irshad-11.github.io/GradeEasy) | 💻 [Source Code](https://github.com/Irshad-11/GradeEasy)
 
+---
+
+[![Text Cleaner Tool](https://github-readme-stats.vercel.app/api/pin/?username=Irshad-11&repo=GradeEasy&theme=tokyonight&border_color=30363d)](https://github.com/Irshad-11/GradeEasy)
+
+---
 
 ## 📂 Explore More
 
 - 🔝 Best Repo: [Travel Guide](https://github.com/Irshad-11/Travel-Guide)
-- 📚 View all my repositories: [github.com/Irshad-11?tab=repositories](https://github.com/Irshad-11?tab=repositories)
+- 📚 Browse All Projects: [github.com/Irshad-11?tab=repositories](https://github.com/Irshad-11?tab=repositories)
 
-
+---
 
 ## 🤝 Connect With Me
 
@@ -77,12 +97,13 @@
   <a href="mailto:irshadrisad@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
+---
 
-
-## 💬 Quote I experienced
+## 💬 Quote I Live By
 
 > “The only way to learn a new programming language is by writing programs in it.”  
 > — Dennis Ritchie
 
+---
 
-<p align="center">Thanks for visiting my profile! ❤️</p>
+<p align="center">Thanks for visiting my profile! 🙏</p>
