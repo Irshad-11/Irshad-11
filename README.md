@@ -53,7 +53,7 @@
 ## 📂 Explore More
 
 - 🔝 Best Repo: **Working**
-- 📚 Browse All Projects: **Working**
+- 📚 Browse All Projects: [My All Project](https://irshad-11.github.io/my-all-project/)
 
 ---
 
