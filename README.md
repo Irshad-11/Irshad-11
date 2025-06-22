@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/bd/eb/85/bdeb85ffc85a0cfb67ce9e6bb4cd57c5.jpg" alt="Banner" width="100%" />
+  <img src="https://i.postimg.cc/wTwdtdsp/Copilot-20250622-205550.png" alt="Banner" width="100%" />
 </p>
 
 <h3 align="center"><strong><em>🚨 This intro is currently under experimental changes 🚧</em></strong></h3>
