@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/0e/b3/17/0eb317a3b45831fe09903bf57fde65cf.jpg" alt="Banner" width="100%" />
+  <img src="https://i.pinimg.com/originals/0e/b3/17/0eb317a3b45831fe09903bf57fde65cf.gif" alt="Banner" width="100%" />
 </p>
 
 <h3 align="center"><strong><em>🚨 This is currently under experimental changes 🚧</em></strong></h3>
