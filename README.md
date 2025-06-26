@@ -1,9 +1,9 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.postimg.cc/wTwdtdsp/Copilot-20250622-205550.png" alt="Banner" width="100%" />
+  <img src="https://i.pinimg.com/1200x/0e/b3/17/0eb317a3b45831fe09903bf57fde65cf.jpg" alt="Banner" width="100%" />
 </p>
 
-<h3 align="center"><strong><em>🚨 This intro is currently under experimental changes 🚧</em></strong></h3>
+<h3 align="center"><strong><em>🚨 This is currently under experimental changes 🚧</em></strong></h3>
 
 <h1 align="center">Hi ♨, I'm Irshad Hossain</h1>
 <h3 align="center">Student | Software Engineering @ University of Frontier Technology Bangladesh</h3>
