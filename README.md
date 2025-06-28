@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/fe/d5/02/fed5027a8261ab3ff555ffffbcafeac3.gif" alt="Banner" width="75%" />
+  <img src="https://i.pinimg.com/originals/27/6f/ef/276fefe7a7211c6517f9508f453cf8b9.gif" alt="Banner" width="75%" />
 </p>
 
 <h1 align="right">
