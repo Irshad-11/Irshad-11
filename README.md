@@ -66,7 +66,7 @@
 
 
 ## 🌐 Portfolio
-<a href="https://irshad-11.github.io/portfolio" target="_blank">
+<a href="https://irshad-11.github.io" target="_blank">
   <img src="https://img.shields.io/badge/Visit-Portfolio-blue?style=for-the-badge&logo=brave" />
 </a>
 
