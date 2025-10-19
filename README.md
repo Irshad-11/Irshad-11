@@ -10,6 +10,14 @@
 
 
 <h3 align="center">Student | Software Engineering @ University of Frontier Technology Bangladesh</h3>
+<h3 align="center">Latest Project</h3>
+
+<p align="center">
+  <a>Second Mind</a> |
+  <a href="https://github.com/Irshad-11/Second-Mind">Repo</a> |
+  <a href="https://second-mind-plms.vercel.app/">Live</a>
+</p>
+
 
 
 
@@ -93,9 +101,9 @@
 
 | Sl. | Description | Tech Stack | Month | Repo | Live Site |
 |-----|-------------|------------|-------|------|-----------|
-| 1 | GradeEasy - auto grading tool | JS, HTML, CSS | Jan 2025 | [Repo](https://github.com/Irshad-11/GradeEasy) | [Live](https://irshad-11.github.io/GradeEasy/) |
-| 2 | Text Cleaner utility | JS | Dec 2024 | [Repo](https://github.com/Irshad-11/Simple-Text-Cleaner) | [Live](https://irshad-11.github.io/Simple-Text-Cleaner/) |
-| 3 | Link Manager (SPA) | JS, localStorage | Ongoing | [Repo](#) | [Live](#) |
+| 1 | Second Mind | React, IndexdDB | July 2025 | [Repo](https://github.com/Irshad-11/Second-Mind) | [Live](https://second-mind-plms.vercel.app/) |
+| 2 | GradeEasy - auto grading tool | JS, HTML, CSS | Jan 2025 | [Repo](https://github.com/Irshad-11/GradeEasy) | [Live](https://irshad-11.github.io/GradeEasy/) |
+| 3 | Text Cleaner utility | JS | Dec 2024 | [Repo](https://github.com/Irshad-11/Simple-Text-Cleaner) | [Live](https://irshad-11.github.io/Simple-Text-Cleaner/) |
 
 
 
