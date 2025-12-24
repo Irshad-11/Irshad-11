@@ -1,141 +1,121 @@
-<h1>This is under testing phase Not Stable right now</h1>
-<!-- Banner -->
+
 <p align="center">
   <img src="https://github.com/Irshad-11/Documents/blob/main/logo%20animation.gif" alt="Banner" width="100%" />
 </p>
 
-<h1 align="right">
-  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=38&pause=1000&color=BA8E23&width=760&lines=Hi+I'm+Irshad+Hossain+!;This+Profile+Is+Under+Active+Development;Welcome+to+My+Digital+Space;A+Stable+Version+Will+Be+Live+Soon...;Stay+Tuned" alt="Typing SVG" />
-</h1>
+<h1 align="center">Irshad Hossain</h1>
+<h3 align="center">Software Engineering Student (Backend-Oriented)</h3>
+<h5 align="center">
+  <a href="mailto:irshadrisad@gmail.com">Email</a> |
+  <a href="https://www.facebook.com/forgeofcreation17">Facebook</a> |
+  <a href="https://www.linkedin.com/in/irshad-hossain-785548323/">LinkedIn</a> |
+  <a href="https://github.com/Irshad-11">GitHub</a>
+</h5>
+
+> Software Engineering student with a strong foundation in C programming and problem-solving. Familiar with frontend development using React and Tailwind CSS, and currently learning backend development with Python and databases. Experienced in building small data-driven systems and practicing competitive programming. Actively interested in machine learning and research-oriented opportunities, and seeking internships to further develop technical and analytical skills.
 
 
-<h3 align="center">Student | Software Engineering @ University of Frontier Technology Bangladesh</h3>
-<h3 align="center">Latest Project</h3>
+
+## 🧠 TECHNICAL SKILLS
+
+### 💻 Programming Languages
+- **C** — pointers, structs, dynamic memory management
+- **Python** — Basic–Intermediate — scripting, problem solving
+- **C++** — Competitive Programming
+- **JavaScript** — Surface-level, Do Stuff
 
 <p align="center">
-  <a>Second Mind</a> |
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="30" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="30" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="30" />
+</p>
+
+
+### 📚 Frameworks & Libraries (Familiar)
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="30" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="30" />
+  <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" width="30" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Pygame_logo.svg" width="80" />
+</p>
+
+
+### 🧠 Core CS (Learning)
+- **Data Structures** — arrays, basic sorting
+- **Algorithms** — brute force, basic optimization
+- **Object-Oriented Programming** — basics
+
+
+### 🛠️ Tools
+- **Git** — Github *Basic Branching , Regular*
+- **IDE** — VS Code
+- **CI/CD** — Github Action , Jenkins
+- **Test** — PyTest
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" />
+  <img src="https://img.icons8.com/?size=100&id=LoL4bFzqmAa0&format=png&color=000000" width="30" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" width="20" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" width="40" />
+  <img src="https://img.icons8.com/?size=100&id=BQ1lJP4geUqU&format=png&color=000000" width="30" />
+</p>
+
+
+## ◼ PROJECTS
+
+### 1. SECOND MIND — PLMS  
+*React, Tailwind CSS, IndexedDB, Framer Motion*  
+
+<p>
   <a href="https://github.com/Irshad-11/Second-Mind">Repo</a> |
   <a href="https://second-mind-plms.vercel.app/">Live</a>
 </p>
 
+- Designed a local-first learning management system to unify academic work and self-study under one workspace
+- Chose IndexedDB storage to support offline usage and long-term personal data ownership
+- Implemented structured client-side persistence with JSON import/export for portability and recovery
+- Built a modular tab-based architecture to support future feature expansion without refactoring
+- Deployed a production-ready SPA with optimized builds and clean state isolation
 
 
-
-
-
-
-## 🧠 Quick Bio
-
-- 🎓 BSc in Software Engineering (Hons)
-- 🌱 Currently learning full-stack development
-- 💡 Passionate about solving real-life problems with clean, maintainable code
-
-
-## 💻 Languages
+### 2. PassGuard — CLI  
+*Python, SQLite, OpenSSL, CLI*  
 
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="40" title="C" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" title="Python" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40" title="JavaScript" />
+  <a href="https://github.com/Irshad-11/PassGuard-CLI">Repo</a>
 </p>
 
+- Designed a terminal-based password manager focused on offline security and developer workflows
+- Defined UNIX-style subcommands alongside an interactive CLI mode for fast and exploratory usage
+- Architected encrypted local storage with access-key authentication and time-bound sessions
+- Designed password lifecycle controls including generation policies, history tracking, and expiry alerts
+- Structured storage to support credentials beyond passwords (API keys, SSH paths, secure notes)
+
+## 🧩 PROBLEM SOLVING
+
+- Solved **125+ problems** on Beecrowd, Codeforces, and LeetCode
+- More consistent on **Codeforces**
+- Comfortable with array-based logic and basic algorithms
+- Preparing for **ICPC-style competitive programming**
+
+## 🎓 EDUCATION
+
+### BSc in Software Engineering  
+*University of Frontier Technology, Bangladesh*  
+
+**2024 – 2029 (Expected)**  
+**SGPA (1st Semester): 3.25**
 
 
-## 📚 Frameworks & Libraries
+## 📖 LEARNING & DEVELOPMENT
 
-<p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="40" title="Tailwind CSS" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40" title="React" />
-  <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" width="40" title="Node.js" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Pdf-js_logo.svg" width="40" title="jsPDF" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Pygame_logo.svg" width="80" title="PyGame" />
-</p>
+- Learning backend development using Python
+- Studying data structures & algorithms for CP
+- Interested in **Machine Learning & research opportunities**
+- Learning through books, videos, code analysis, and hands-on projects
 
-
-
-## 🛠️ Tools
-
-<p>
-  <img src="https://img.icons8.com/?size=100&id=LoL4bFzqmAa0&format=png&color=000000" width="40" title="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" width="40" title="Jenkins" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" width="60" title="PyTest" />
-  <img src="https://img.icons8.com/?size=100&id=BQ1lJP4geUqU&format=png&color=000000" width="40" title="Hugging Face" />
-</p>
-
-
-
-## 🧪 Also Familiar With
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
-
-
-
-
-
-## 🌐 Portfolio
-<a href="https://irshad-11.github.io" target="_blank">
-  <img src="https://img.shields.io/badge/Visit-Portfolio-blue?style=for-the-badge&logo=brave" />
-</a>
-
-
-
-
-## 🌟 Featured Projects
-
-<div align="center">
-  
-<a href="https://irshad-11.github.io/GradeEasy/" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Irshad-11&repo=GradeEasy&theme=transparent&border_color=58A6FF" />
-</a>
-
-<a href="https://irshad-11.github.io/Simple-Text-Cleaner/" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Irshad-11&repo=Simple-Text-Cleaner&theme=transparent&border_color=58A6FF" />
-</a>
-
-</div>
-
-
-
-## 🔝 Top Projects
-
-| Sl. | Description | Tech Stack | Month | Repo | Live Site |
-|-----|-------------|------------|-------|------|-----------|
-| 1 | Second Mind | React, IndexdDB | July 2025 | [Repo](https://github.com/Irshad-11/Second-Mind) | [Live](https://second-mind-plms.vercel.app/) |
-| 2 | GradeEasy - auto grading tool | JS, HTML, CSS | Jan 2025 | [Repo](https://github.com/Irshad-11/GradeEasy) | [Live](https://irshad-11.github.io/GradeEasy/) |
-| 3 | Text Cleaner utility | JS | Dec 2024 | [Repo](https://github.com/Irshad-11/Simple-Text-Cleaner) | [Live](https://irshad-11.github.io/Simple-Text-Cleaner/) |
-
-
-
-## 🗂️ My All Projects
-🔗 [![All Projects](https://img.shields.io/badge/🚀Visit_All_Projects-gray?style=for-the-badge)](https://irshad-11.github.io/my-all-project/)
-
-
-
-## 🙋 About Me
-
-- 🧠 Logical Thinker & Creative Builder
-- 🧪 Self-learner exploring JS, React, and AI tools
-- 📖 Building my own Learning Management System (LMS)
-- 🧩 Enjoy solving problems in unique, human-friendly ways
-
-
-
-## 📬 Contact Me
-
-<p>
-  <a href="https://www.linkedin.com/in/irshad-hossain-785548323/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="mailto:irshadrisad@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Irshad-11" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" /></a>
-</p>
-
-
-
-## 💬 Favorite Quote
 
 > “The only way to learn a new programming language is by writing programs in it.”  
-> — Dennis Ritchie
+> — **Dennis Ritchie**
 
----
-
-<p align="center"><strong>Thanks for visiting my profile! 🚀 Stay curious, stay coding!</strong></p>
+<p align="center"><strong>Thanks for visiting! 🤎</strong></p>
