@@ -1,3 +1,4 @@
+![GitHub Profile Views](https://komarev.com)
 
 <p align="center">
   <img src="https://github.com/Irshad-11/Documents/blob/main/logo%20animation.gif" alt="Banner" width="100%" />
