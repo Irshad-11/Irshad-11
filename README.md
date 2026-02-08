@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=Irshad-11&label=Profile%20Views)
+
 <p align="center">
   <img src="https://github.com/Irshad-11/Documents/blob/main/logo%20animation.gif" alt="Banner" width="100%" />
 </p>
@@ -117,5 +117,7 @@
 
 > “The only way to learn a new programming language is by writing programs in it.”  
 > — **Dennis Ritchie**
+
+![Profile Views](https://komarev.com/ghpvc/?username=Irshad-11&label=Profile%20Views)
 
 <p align="center"><strong>Thanks for visiting! 🤎</strong></p>
