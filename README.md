@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Irshad Hossain</h1>
-<h3 align="center">Software Engineering Student (Backend-Oriented)</h3>
+<h3 align="center">Software Engineering Student | Frontend & API Integration</h3>
 <h5 align="center">
   <a href="mailto:irshadrisad@gmail.com">Email</a> |
   <a href="https://www.facebook.com/forgeofcreation17">Facebook</a> |
@@ -22,12 +22,14 @@
 - **C** — pointers, structs, dynamic memory management
 - **Python** — Basic–Intermediate — scripting, problem solving
 - **C++** — Competitive Programming
+- **Javat** — OOP
 - **JavaScript** — Surface-level, Do Stuff
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="30" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="30" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="30" />
+  <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="40" />
 </p>
 
 
@@ -37,13 +39,15 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="30" />
   <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" width="30" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Pygame_logo.svg" width="80" />
+  <img src="https://img.icons8.com/?size=100&id=LPmcJ9e0FU7K&format=png&color=000000" width="30" />
+  <img src="https://img.icons8.com/?size=100&id=7I3BjCqe9rjG&format=png&color=000000" width="30" />
 </p>
 
 
 ### 🧠 Core CS (Learning)
-- **Data Structures** — arrays, basic sorting
-- **Algorithms** — brute force, basic optimization
-- **Object-Oriented Programming** — basics
+- **Data Structures** — arrays, linked list
+- **Algorithms** — Sort, Searching
+- **Object-Oriented Programming** — Intermediate
 
 
 ### 🛠️ Tools
@@ -63,7 +67,22 @@
 
 ## ◼ PROJECTS
 
-### 1. SECOND MIND — PLMS  
+
+
+### 1. AI AskBook  
+*Django, Jinja2, PostgreSQL, Render*  
+
+<p>
+  <a href="https://github.com/Irshad-11/The-AI-AskBook">Repo</a> | 
+  <a href="https://the-ai-askbook.onrender.com/">Live Demo</a> 
+  <br>
+  <em>Note: Hosted on a free instance; please allow 30s for the server to wake up.</em>
+</p>
+
+⚠ Database will expire on 4 March, 2026
+
+
+### 2. SECOND MIND — PLMS  
 *React, Tailwind CSS, IndexedDB, Framer Motion*  
 
 <p>
@@ -78,7 +97,7 @@
 - Deployed a production-ready SPA with optimized builds and clean state isolation
 
 
-### 2. PassGuard — CLI  
+### 3. PassGuard — CLI  
 *Python, SQLite, OpenSSL, CLI*  
 
 <p>
